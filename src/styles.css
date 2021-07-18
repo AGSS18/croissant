@@ -1,0 +1,22 @@
+.body {
+  background-color: rgb(243, 195, 104);
+  color: white;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.home-link {
+  margin-top: 100px;
+}
+
+a:hover {
+  color: white !important;
+}
+
+.index-h1 {
+  color: rgb(107, 107, 107);
+}
